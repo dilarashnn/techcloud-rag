@@ -1,0 +1,70 @@
+ŞİRKET MÜŞTERİ HİZMET SÖZLEŞMESİ
+=====================================
+
+Madde 1 - Taraflar
+Bu sözleşme, TechCloud Bilişim Hizmetleri A.Ş. (bundan sonra "Şirket" olarak anılacaktır) ile hizmetlerden yararlanan gerçek veya tüzel kişi (bundan sonra "Müşteri" olarak anılacaktır) arasında akdedilmiştir.
+
+Madde 2 - Sözleşmenin Konusu
+İşbu sözleşme, Şirket tarafından sunulan bulut tabanlı yazılım hizmetlerinin (SaaS) kullanım şartlarını, tarafların hak ve yükümlülüklerini düzenlemektedir.
+
+Madde 3 - Üyelik ve Paketler
+3.1: Müşteri, Basic, Pro veya Enterprise paketlerinden birini seçerek hizmete abone olabilir.
+3.2: Paket değişikliği, mevcut fatura döneminin sonunda geçerli olur.
+3.3: Paket yükseltmeleri anında uygulanır; düşürmeler ise dönem sonunda aktifleşir.
+
+Madde 4 - İade ve İptal Koşulları
+4.1: Standart iade süresi, satın alım tarihinden itibaren 14 gündür.
+4.2: İade talebi, müşteri destek hattı veya online panel üzerinden yapılmalıdır.
+4.3: İade onaylandıktan sonra ödeme, 5-10 iş günü içerisinde müşterinin hesabına iade edilir.
+4.4: Yıllık aboneliklerde ilk 30 gün içerisinde tam iade yapılır; 30 günü aşan taleplerde kalan süre oranında iade hesaplanır.
+4.5: Kurumsal (Enterprise) paketlerde iade koşulları özel sözleşme hükümlerine tabidir.
+
+Madde 5 - Ödeme Koşulları
+5.1: Aylık abonelik ücreti her ayın 1'inde tahsil edilir.
+5.2: Yıllık aboneliklerde toplam tutar, abone olunan tarihte peşin olarak tahsil edilir.
+5.3: Ödeme gecikmeleri durumunda aylık %2 gecikme faizi uygulanır.
+5.4: Üst üste 6 ay ödeme yapılmaması halinde hesap askıya alınır, 3 aylık gecikmelerde sadece uyarılır.
+
+Madde 6 - Hizmet Düzeyi Taahhüdü (SLA)
+6.1: Şirket, aylık %99.5 hizmet sürekliliği taahhüt eder.
+6.2: Planlı bakım çalışmaları en az 48 saat önceden bildirilir.
+6.3: SLA ihlali durumunda müşteriye kesinti süresine oranla kredi verilir.
+
+Madde 7 - Veri Güvenliği ve Gizlilik
+7.1: Müşteri verileri, AES-256 şifreleme standardıyla korunur.
+7.2: Şirket, müşteri verilerini üçüncü şahıslarla paylaşmaz.
+7.3: Veri ihlali durumunda müşteri 72 saat içerisinde bilgilendirilir.
+7.4: Müşteri, hesap silme talebinde bulunduğunda tüm verileri 30 gün içinde kalıcı olarak silinir.
+
+Madde 8 - Destek Hizmetleri
+8.1: Basic paket kullanıcıları e-posta desteğinden yararlanır (yanıt süresi: 48 saat).
+8.2: Pro paket kullanıcıları öncelikli e-posta ve canlı sohbet desteği alır (yanıt süresi: 4 saat).
+8.3: Enterprise paket kullanıcıları 7/24 telefon desteği ve özel hesap yöneticisi hizmetinden yararlanır.
+
+Madde 9 - Kullanım Sınırları
+9.1: Her paket için belirlenen kullanıcı sayısı ve depolama limitleri aşılamaz.
+9.2: Limit aşımı durumunda otomatik olarak bir üst pakete yükseltme teklif edilir.
+9.3: Kötüye kullanım tespit edilmesi halinde Şirket, hesabı askıya alma hakkını saklı tutar.
+
+Madde 10 - Fikri Mülkiyet Hakları
+10.1: Şirket platformu ve yazılımına ait tüm fikri mülkiyet hakları Şirket'e aittir.
+10.2: Müşteri, platforma yüklediği içeriklerin fikri mülkiyet hakkını korur.
+
+Madde 11 - Sözleşme Süresi
+11.1: Bu sözleşme, müşterinin üyelik başlangıç tarihinden itibaren 1 yıl süreyle geçerlidir.
+11.2: Taraflardan biri, süre bitiminden 30 gün önce yazılı fesih bildirimi yapmadığı takdirde sözleşme otomatik olarak 1 yıl uzar.
+
+Madde 12 - Fesih
+12.1: Müşteri, dilediği zaman sözleşmeyi feshedebilir; fesih, mevcut fatura döneminin sonunda geçerli olur.
+12.2: Şirket, sözleşme ihlali durumunda 15 gün önceden yazılı bildirimle sözleşmeyi feshedebilir.
+
+Madde 13 - Mücbir Sebepler
+13.1: Doğal afet, savaş, salgın hastalık gibi mücbir sebepler nedeniyle hizmet kesintisi yaşanması halinde Şirket sorumluluk kabul etmez.
+
+Madde 14 - Uyuşmazlık Çözümü
+14.1: Bu sözleşmeden doğan uyuşmazlıklarda İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
+14.2: Taraflar, uyuşmazlık durumunda öncelikle arabuluculuk yoluna başvurur.
+
+Madde 15 - Yürürlük
+15.1: Bu sözleşme, Müşteri tarafından elektronik ortamda onaylandığı tarihte yürürlüğe girer.
+15.2: Sözleşme, 15 maddeden oluşmakta olup taraflar tüm maddeleri okuduğunu ve kabul ettiğini beyan eder.

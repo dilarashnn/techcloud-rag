@@ -1,0 +1,4 @@
+paket_adi,aylik_fiyat_tl,yillik_fiyat_tl,kullanici_limiti,depolama_limiti_gb,destek_tipi,iade_suresi_gun,api_erisimi,ozel_entegrasyon
+Basic,99,948,5,10,E-posta (48 saat),14,Hayır,Hayır
+Pro,199,3500,25,100,Öncelikli E-posta + Canlı Sohbet (4 saat),14,Evet,Hayır
+Enterprise,499,4788,Sınırsız,500,7/24 Telefon + Özel Hesap Yöneticisi,14,Evet,Evet

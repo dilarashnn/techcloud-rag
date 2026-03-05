@@ -1,0 +1,76 @@
+[
+  {
+    "tarih": "2024-01-15",
+    "tip": "fiyat_degisikligi",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket aylık fiyatı güncellendi.",
+    "onceki_deger": "179 TL",
+    "yeni_deger": "199 TL"
+  },
+  {
+    "tarih": "2024-03-01",
+    "tip": "sozlesme_degisikligi",
+    "etkilenen_madde": "Madde 4.1",
+    "degisiklik": "Standart iade süresi 10 günden 14 güne çıkarılmıştır.",
+    "onceki_deger": "10 gün",
+    "yeni_deger": "14 gün"
+  },
+  {
+    "tarih": "2024-06-01",
+    "tip": "sozlesme_degisikligi",
+    "etkilenen_madde": "Madde 4.1",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket iade süresi 30 güne çıkarılmıştır.",
+    "onceki_deger": "14 gün",
+    "yeni_deger": "30 gün"
+  },
+  {
+    "tarih": "2024-07-10",
+    "tip": "fiyat_degisikligi",
+    "etkilenen_paket": "Enterprise",
+    "degisiklik": "Enterprise paket yıllık fiyatında indirim yapılmıştır.",
+    "onceki_deger": "5388 TL",
+    "yeni_deger": "4788 TL"
+  },
+  {
+    "tarih": "2024-09-15",
+    "tip": "sozlesme_degisikligi",
+    "etkilenen_madde": "Madde 6.1",
+    "degisiklik": "SLA taahhüdü %99.0'dan %99.5'e yükseltilmiştir.",
+    "onceki_deger": "%99.0",
+    "yeni_deger": "%99.5"
+  },
+  {
+    "tarih": "2024-11-01",
+    "tip": "ozellik_degisikligi",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro pakete API erişimi eklenmiştir.",
+    "onceki_deger": "Hayır",
+    "yeni_deger": "Evet"
+  },
+  {
+    "tarih": "2025-01-10",
+    "tip": "fiyat_degisikligi",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket aylık fiyatı güncellendi.",
+    "onceki_deger": "79 TL",
+    "yeni_deger": "99 TL"
+  },
+  {
+    "tarih": "2025-02-15",
+    "tip": "sozlesme_degisikligi",
+    "etkilenen_madde": "Madde 7.3",
+    "degisiklik": "Veri ihlali bildirim süresi 7 günden 72 saate düşürülmüştür.",
+    "onceki_deger": "7 gün",
+    "yeni_deger": "72 saat"
+  },
+  {
+    "tarih": "2026-03-05",
+    "tip": "sozlesme_degisikligi",
+    "etkilenen_madde": "Madde 4.1",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket iade süresi 7 güne düşürülmüştür.",
+    "onceki_deger": "14 gün",
+    "yeni_deger": "7 gün"
+  }
+]
